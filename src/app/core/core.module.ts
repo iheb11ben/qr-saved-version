@@ -22,6 +22,7 @@ import { UpdateMenuComponent } from './forms/menu/update-menu/update-menu.compon
 
 import { UpdateUrlComponent } from './forms/url/update-url/update-url.component';
 import { AfficheUrlComponent } from './forms/url/affiche-url/affiche-url.component';
+import { DemoComponent } from './demo/demo.component';
 
 
 
@@ -34,7 +35,7 @@ import { AfficheUrlComponent } from './forms/url/affiche-url/affiche-url.compone
     ParametreComponent,
     UrlComponent,
     UpdatecarteComponent,
-    AfficheComponent,Affiche2Component, AfficheMenuComponent, FormLibreComponent, FormLibre2Component, UpdateMenuComponent, UpdateUrlComponent, AfficheUrlComponent
+    AfficheComponent,Affiche2Component, AfficheMenuComponent, FormLibreComponent, FormLibre2Component, UpdateMenuComponent, UpdateUrlComponent, AfficheUrlComponent, DemoComponent
 
    
 

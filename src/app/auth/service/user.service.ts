@@ -36,7 +36,7 @@ register (user:User):Observable<User>{
   console.log(user);
   return this.httpClient.post<User>(`${this.url}/register`,user)
 }
-isLogin():boolean{
+ isLogin():boolean{
  this.token=localStorage.getItem('role')
   if (this.token==='user') {
     
